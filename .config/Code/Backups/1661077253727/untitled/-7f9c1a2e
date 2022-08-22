@@ -1,0 +1,10 @@
+untitled:Untitled-1 {"typeId":""}
+include numpy
+
+def test():
+    a = 2
+    if a != 3:
+        print('È diverso')
+    else :
+        print('È due')
+

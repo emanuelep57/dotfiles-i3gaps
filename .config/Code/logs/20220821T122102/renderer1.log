@@ -1,0 +1,4 @@
+[2022-08-21 12:21:17.752] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+[2022-08-21 12:21:17.980] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+[2022-08-21 12:21:18.253] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+[2022-08-21 12:21:24.840] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}

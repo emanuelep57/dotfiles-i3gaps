@@ -1,0 +1,8 @@
+[GuiConfig]
+captureDelay=4
+captureMode=5
+window-position=48,32
+
+[Save]
+lastSaveAsLocation=file:///home/emanuele/Pictures/git.png
+lastSaveLocation=file:///home/emanuele/Pictures/git.png

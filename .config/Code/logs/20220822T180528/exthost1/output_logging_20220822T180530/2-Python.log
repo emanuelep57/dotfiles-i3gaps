@@ -1,0 +1,8 @@
+LSP Notebooks experiment is enabled
+LSP Notebooks interactive window support is enabled
+> conda info --json
+> /usr/share/anaconda/bin/conda info --json
+Python interpreter path: /bin/python
+> /bin/python ~/.vscode/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.12.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python ~/.vscode/extensions/ms-python.python-2022.12.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.12.1/pythonFiles/interpreterInfo.py
+Starting Pylance language server.

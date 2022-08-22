@@ -1,0 +1,79 @@
+[2022-08-22 18:05:30.171] [exthost] [info] Extension host with pid 14378 started
+[2022-08-22 18:05:30.257] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-22 18:05:30.309] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-22 18:05:30.526] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-22 18:05:30.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-22 18:05:30.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-22 18:05:30.549] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-22 18:05:30.551] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: true, activationEvent: '*'
+[2022-08-22 18:05:30.557] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-08-22 18:05:30.569] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: true, activationEvent: '*'
+[2022-08-22 18:05:30.947] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-22 18:05:30.958] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-22 18:05:30.979] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-08-22 18:05:31.050] [exthost] [info] Eager extensions activated
+[2022-08-22 18:05:31.064] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-22 18:05:31.111] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-22 18:05:31.117] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 18:05:31.120] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 18:05:31.121] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 18:05:31.278] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-08-22 18:05:31.283] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 18:05:31.354] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-22 18:05:31.439] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-22 18:05:31.440] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-22 18:05:31.449] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-22 18:05:32.653] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-22 18:05:32.673] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.R [as canceled] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1204)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:9094
+	at Array.forEach (<anonymous>)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:9042)
+	at w.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10969)
+	at w.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+	at m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:19088)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:17016
+	at w.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at b.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at c.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:19006)
+	at i._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23593)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21127
+	at w.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at b.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15837)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14967
+	at Socket.l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:26303)
+	at Socket.emit (node:events:390:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:199:23) 
+[2022-08-22 18:05:32.673] [exthost] [error] ProxyResolver#resolveProxy DIRECT Canceled: Canceled
+	at Object.R [as canceled] (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:7:1204)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:9094
+	at Array.forEach (<anonymous>)
+	at o.dispose (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:95:9042)
+	at w.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:97:10969)
+	at w.terminate (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:101:620)
+	at m (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:19088)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:111:17016
+	at w.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at b.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at c.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:19006)
+	at i._receiveMessage (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:23593)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:21127
+	at w.invoke (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:145)
+	at b.deliver (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:2266)
+	at p.fire (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:61:1844)
+	at p.acceptChunk (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:15837)
+	at /usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:14967
+	at Socket.l (/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:69:26303)
+	at Socket.emit (node:events:390:28)
+	at addChunk (node:internal/streams/readable:315:12)
+	at readableAddChunk (node:internal/streams/readable:289:9)
+	at Socket.Readable.push (node:internal/streams/readable:228:10)
+	at Pipe.onStreamRead (node:internal/stream_base_commons:199:23) 
+[2022-08-22 18:05:32.692] [exthost] [info] Extension host with pid 14378 exiting with code 0

@@ -1,0 +1,99 @@
+[2022-08-21 12:21:03.437] [sharedprocess] [info] Starting worker process with pid 15678 (type: fileWatcher, window: 1).
+[2022-08-21 12:21:24.918] [sharedprocess] [info] Getting Manifest... catppuccin.catppuccin-vsc
+[2022-08-21 12:21:24.922] [sharedprocess] [info] Installing extension: catppuccin.catppuccin-vsc
+[2022-08-21 12:21:26.179] [sharedprocess] [info] Downloaded extension: catppuccin.catppuccin-vsc /home/emanuele/.config/Code/CachedExtensionVSIXs/catppuccin.catppuccin-vsc-2.0.0
+[2022-08-21 12:21:26.217] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.bd476742-7e45-45d8-b3a0-8a12f4babfef: catppuccin.catppuccin-vsc
+[2022-08-21 12:21:26.220] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/catppuccin.catppuccin-vsc-2.0.0
+[2022-08-21 12:21:26.222] [sharedprocess] [info] Extracting completed. catppuccin.catppuccin-vsc
+[2022-08-21 12:21:26.223] [sharedprocess] [info] Extension installed successfully: catppuccin.catppuccin-vsc
+[2022-08-21 12:21:44.556] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2022-08-21 12:21:44.562] [sharedprocess] [info] Installing extension: ms-python.python
+[2022-08-21 12:21:45.082] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter
+[2022-08-21 12:21:45.455] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-keymap
+[2022-08-21 12:21:46.015] [sharedprocess] [info] Getting Manifest... ms-toolsai.jupyter-renderers
+[2022-08-21 12:21:46.565] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-08-21 12:21:47.202] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter
+[2022-08-21 12:21:47.202] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-keymap
+[2022-08-21 12:21:47.202] [sharedprocess] [info] Installing extension: ms-toolsai.jupyter-renderers
+[2022-08-21 12:21:47.202] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-08-21 12:21:48.236] [sharedprocess] [info] Getting Manifest... ecmel.vscode-html-css
+[2022-08-21 12:21:48.240] [sharedprocess] [info] Installing extension: ecmel.vscode-html-css
+[2022-08-21 12:21:49.838] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-keymap /home/emanuele/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-keymap-1.0.0
+[2022-08-21 12:21:49.857] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.f51e1279-3f85-4e54-99da-a629ad193657: ms-toolsai.jupyter-keymap
+[2022-08-21 12:21:49.862] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/ms-toolsai.jupyter-keymap-1.0.0
+[2022-08-21 12:21:49.863] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-keymap
+[2022-08-21 12:21:50.124] [sharedprocess] [info] Downloaded extension: ms-python.python /home/emanuele/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.12.1
+[2022-08-21 12:21:50.340] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter-renderers /home/emanuele/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-renderers-1.0.9
+[2022-08-21 12:21:50.501] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.9417b154-e4e0-4d77-beec-914d5461b30d: ms-toolsai.jupyter-renderers
+[2022-08-21 12:21:50.510] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/ms-toolsai.jupyter-renderers-1.0.9
+[2022-08-21 12:21:50.511] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter-renderers
+[2022-08-21 12:21:50.719] [sharedprocess] [info] Downloaded extension: ecmel.vscode-html-css /home/emanuele/.config/Code/CachedExtensionVSIXs/ecmel.vscode-html-css-1.13.1
+[2022-08-21 12:21:50.732] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.32f7fc4c-2928-488b-86e1-57c6dec61d5b: ecmel.vscode-html-css
+[2022-08-21 12:21:50.741] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/ecmel.vscode-html-css-1.13.1
+[2022-08-21 12:21:50.742] [sharedprocess] [info] Extracting completed. ecmel.vscode-html-css
+[2022-08-21 12:21:50.742] [sharedprocess] [info] Extension installed successfully: ecmel.vscode-html-css
+[2022-08-21 12:21:51.506] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.d6d59fe2-353f-4929-8327-48ecc96d49e9: ms-python.python
+[2022-08-21 12:21:51.531] [sharedprocess] [info] Downloaded extension: ms-toolsai.jupyter /home/emanuele/.config/Code/CachedExtensionVSIXs/ms-toolsai.jupyter-2022.7.1102252217
+[2022-08-21 12:21:51.532] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/ms-python.python-2022.12.1
+[2022-08-21 12:21:51.535] [sharedprocess] [info] Extracting completed. ms-python.python
+[2022-08-21 12:21:51.962] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.d7dd20aa-e6ab-4a75-b8b2-6459f63809f0: ms-toolsai.jupyter
+[2022-08-21 12:21:51.973] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/ms-toolsai.jupyter-2022.7.1102252217
+[2022-08-21 12:21:51.982] [sharedprocess] [info] Extracting completed. ms-toolsai.jupyter
+[2022-08-21 12:21:55.634] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/emanuele/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.8.30
+[2022-08-21 12:21:57.770] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.67c31782-c9e2-49be-8f6a-958f870928cc: ms-python.vscode-pylance
+[2022-08-21 12:21:57.787] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/ms-python.vscode-pylance-2022.8.30
+[2022-08-21 12:21:57.788] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-08-21 12:21:57.791] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-keymap
+[2022-08-21 12:21:57.791] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter-renderers
+[2022-08-21 12:21:57.791] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2022-08-21 12:21:57.791] [sharedprocess] [info] Extension installed successfully: ms-toolsai.jupyter
+[2022-08-21 12:21:57.791] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance
+[2022-08-21 12:22:05.921] [sharedprocess] [info] Getting Manifest... dsznajder.es7-react-js-snippets
+[2022-08-21 12:22:05.925] [sharedprocess] [info] Installing extension: dsznajder.es7-react-js-snippets
+[2022-08-21 12:22:07.092] [sharedprocess] [info] Downloaded extension: dsznajder.es7-react-js-snippets /home/emanuele/.config/Code/CachedExtensionVSIXs/dsznajder.es7-react-js-snippets-4.4.3
+[2022-08-21 12:22:07.266] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.bfc5ea92-278a-41f0-bd3d-bccaadb26ad8: dsznajder.es7-react-js-snippets
+[2022-08-21 12:22:07.275] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/dsznajder.es7-react-js-snippets-4.4.3
+[2022-08-21 12:22:07.276] [sharedprocess] [info] Extracting completed. dsznajder.es7-react-js-snippets
+[2022-08-21 12:22:07.277] [sharedprocess] [info] Extension installed successfully: dsznajder.es7-react-js-snippets
+[2022-08-21 12:22:33.156] [sharedprocess] [info] Getting Manifest... burkeholland.simple-react-snippets
+[2022-08-21 12:22:33.162] [sharedprocess] [info] Installing extension: burkeholland.simple-react-snippets
+[2022-08-21 12:22:34.939] [sharedprocess] [info] Downloaded extension: burkeholland.simple-react-snippets /home/emanuele/.config/Code/CachedExtensionVSIXs/burkeholland.simple-react-snippets-1.2.6
+[2022-08-21 12:22:35.011] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.10d2633f-c5c4-4b01-8ef3-22c7155a91f5: burkeholland.simple-react-snippets
+[2022-08-21 12:22:35.020] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/burkeholland.simple-react-snippets-1.2.6
+[2022-08-21 12:22:35.021] [sharedprocess] [info] Extracting completed. burkeholland.simple-react-snippets
+[2022-08-21 12:22:35.022] [sharedprocess] [info] Extension installed successfully: burkeholland.simple-react-snippets
+[2022-08-21 12:24:27.630] [sharedprocess] [info] Getting Manifest... pkief.material-icon-theme
+[2022-08-21 12:24:27.636] [sharedprocess] [info] Installing extension: pkief.material-icon-theme
+[2022-08-21 12:24:28.477] [sharedprocess] [info] Downloaded extension: pkief.material-icon-theme /home/emanuele/.config/Code/CachedExtensionVSIXs/pkief.material-icon-theme-4.20.0
+[2022-08-21 12:24:28.878] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.028b0adf-c68d-4c72-b0d6-b043e7412cfb: pkief.material-icon-theme
+[2022-08-21 12:24:28.889] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/pkief.material-icon-theme-4.20.0
+[2022-08-21 12:24:28.890] [sharedprocess] [info] Extracting completed. pkief.material-icon-theme
+[2022-08-21 12:24:28.891] [sharedprocess] [info] Extension installed successfully: pkief.material-icon-theme
+[2022-08-21 12:25:32.104] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-08-21 12:25:32.110] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-08-21 12:25:33.809] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/emanuele/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.8.0
+[2022-08-21 12:25:34.069] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.96218334-7757-4353-9294-bd9817f0a486: esbenp.prettier-vscode
+[2022-08-21 12:25:34.078] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/esbenp.prettier-vscode-9.8.0
+[2022-08-21 12:25:34.079] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-08-21 12:25:34.080] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-08-21 12:26:07.550] [sharedprocess] [info] Getting Manifest... 2gua.rainbow-brackets
+[2022-08-21 12:26:07.556] [sharedprocess] [info] Installing extension: 2gua.rainbow-brackets
+[2022-08-21 12:26:08.753] [sharedprocess] [info] Downloaded extension: 2gua.rainbow-brackets /home/emanuele/.config/Code/CachedExtensionVSIXs/2gua.rainbow-brackets-0.0.6
+[2022-08-21 12:26:08.764] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.b90eb44d-4ab8-4626-8b7b-ab61a8bae78e: 2gua.rainbow-brackets
+[2022-08-21 12:26:08.767] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/2gua.rainbow-brackets-0.0.6
+[2022-08-21 12:26:08.768] [sharedprocess] [info] Extracting completed. 2gua.rainbow-brackets
+[2022-08-21 12:26:08.769] [sharedprocess] [info] Extension installed successfully: 2gua.rainbow-brackets
+[2022-08-21 12:26:27.889] [sharedprocess] [info] Getting Manifest... xabikos.javascriptsnippets
+[2022-08-21 12:26:27.894] [sharedprocess] [info] Installing extension: xabikos.javascriptsnippets
+[2022-08-21 12:26:29.035] [sharedprocess] [info] Downloaded extension: xabikos.javascriptsnippets /home/emanuele/.config/Code/CachedExtensionVSIXs/xabikos.javascriptsnippets-1.8.0
+[2022-08-21 12:26:29.042] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.6f4d5df9-5056-44ab-a862-901b79045a67: xabikos.javascriptsnippets
+[2022-08-21 12:26:29.045] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/xabikos.javascriptsnippets-1.8.0
+[2022-08-21 12:26:29.046] [sharedprocess] [info] Extracting completed. xabikos.javascriptsnippets
+[2022-08-21 12:26:29.047] [sharedprocess] [info] Extension installed successfully: xabikos.javascriptsnippets
+[2022-08-21 12:26:42.105] [sharedprocess] [info] Getting Manifest... kamikillerto.vscode-colorize
+[2022-08-21 12:26:42.111] [sharedprocess] [info] Installing extension: kamikillerto.vscode-colorize
+[2022-08-21 12:26:44.266] [sharedprocess] [info] Downloaded extension: kamikillerto.vscode-colorize /home/emanuele/.config/Code/CachedExtensionVSIXs/kamikillerto.vscode-colorize-0.11.1
+[2022-08-21 12:26:44.384] [sharedprocess] [info] Extracted extension to /home/emanuele/.vscode/extensions/.29bc8827-af4d-4d0f-8527-05d1f88f63bf: kamikillerto.vscode-colorize
+[2022-08-21 12:26:44.393] [sharedprocess] [info] Renamed to /home/emanuele/.vscode/extensions/kamikillerto.vscode-colorize-0.11.1
+[2022-08-21 12:26:44.394] [sharedprocess] [info] Extracting completed. kamikillerto.vscode-colorize
+[2022-08-21 12:26:44.396] [sharedprocess] [info] Extension installed successfully: kamikillerto.vscode-colorize

@@ -1,0 +1,27 @@
+[2022-08-21 12:21:03.221] [exthost] [info] Extension host with pid 15606 started
+[2022-08-21 12:21:03.363] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-08-21 12:21:03.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-08-21 12:21:03.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-08-21 12:21:03.406] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-08-21 12:21:03.443] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-08-21 12:21:03.502] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-08-21 12:21:03.590] [exthost] [info] Eager extensions activated
+[2022-08-21 12:21:03.625] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-21 12:21:03.640] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-21 12:21:03.659] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-08-21 12:21:26.301] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-21 12:21:26.306] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-21 12:21:26.380] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-08-21 12:21:50.841] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: '*'
+[2022-08-21 12:21:58.181] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onWalkthrough:pythonWelcome'
+[2022-08-21 12:21:58.381] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onWalkthrough:jupyterWelcome'
+[2022-08-21 12:21:58.987] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-08-21 12:22:07.373] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-21 12:23:46.267] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-08-21 12:24:29.029] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-21 12:25:34.217] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onStartupFinished', root cause: esbenp.prettier-vscode
+[2022-08-21 12:25:34.258] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-08-21 12:26:08.835] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets, startup: false, activationEvent: '*'
+[2022-08-21 12:26:44.495] [exthost] [info] ExtensionService#_doActivateExtension kamikillerto.vscode-colorize, startup: false, activationEvent: '*'
+[2022-08-21 12:28:00.804] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-08-21 12:28:00.841] [exthost] [info] Extension host with pid 15606 exiting with code 0
